@@ -112,12 +112,13 @@ print("Element found at index: ", result)
 ```
 ## Sample Input and Output
 
+![Screenshot (104)](https://user-images.githubusercontent.com/118361409/214822294-44a374ec-1921-417a-be04-447ac5f5b30e.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/118361409/214822589-9cd5d807-711a-4e36-a240-c2067fdcac0c.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/118361409/214822864-49065321-0e40-4569-9862-cf8eb54b9c8e.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/118361409/214823104-9880c160-9f34-479c-b40a-7c40c8bb5c51.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/118361409/214823294-0b5c2408-a246-4b04-aa93-f8d9a8de24bb.png)
 
-![Screenshot (59)](https://user-images.githubusercontent.com/118361409/214365784-b77b6211-f457-4769-828b-f18fa22966a2.png)
 
-![Screenshot (60)](https://user-images.githubusercontent.com/118361409/214365954-51b60c96-2ec7-43e1-a420-f146a3e0ce8d.png)
-
-![Screenshot (61)](https://user-images.githubusercontent.com/118361409/214366173-b9993732-2fc3-46f4-bf5c-63b188f4f3e9.png)
 
 
 
